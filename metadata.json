@@ -1,0 +1,6 @@
+{
+  "name": "Penilai Esai HOTS C4",
+  "description": "Aplikasi penilaian otomatis esai HOTS (C4 - Penalaran) berbasis kurikulum merdeka untuk mengevaluasi jawaban siswa secara mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
